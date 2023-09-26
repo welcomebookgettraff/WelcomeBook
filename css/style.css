@@ -343,6 +343,9 @@ section {
   width: 100%;
   margin: 10px 0 0 0;
 }
+.mg__top{
+    margin-top: -150px;
+}
 /* Section Work end*/
 
 /* Section crm  */
@@ -534,6 +537,9 @@ section {
   .secondary-title {
     text-align: center;
   }
+  .mg__top{
+    margin-top: 0;
+}
 }
 @media screen and (max-width: 750px) {
   .header__title {
