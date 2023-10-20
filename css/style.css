@@ -232,7 +232,7 @@ table {
   margin-bottom: 20px;
 }
 .main-text:last-of-type {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 .secondary-title {
   color: var(--main-color);
@@ -259,6 +259,10 @@ table {
 }
 section {
   padding: 0 10px;
+}
+.btn_link{
+  max-width: 300px;
+
 }
 /* !Main styles end*/
 
@@ -583,5 +587,9 @@ section {
   }
   .footer__title{
     font-size: 16px;
+  }
+  .btn_link{
+    max-width: 150px;
+  
   }
 }
