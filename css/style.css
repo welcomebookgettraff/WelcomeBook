@@ -264,6 +264,10 @@ section {
   max-width: 300px;
 
 }
+.btn_img{
+  height: 150px;
+  width: 100%;
+}
 /* !Main styles end*/
 
 /* Section Main */
@@ -590,6 +594,8 @@ section {
   }
   .btn_link{
     max-width: 150px;
-  
+  }
+  .btn_img{
+    height: auto;
   }
 }
